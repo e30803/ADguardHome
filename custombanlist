@@ -1,0 +1,122 @@
+! ==================================================
+! Name: TW Anti-Scam Extended (AdGuard Home)
+! Target: 台灣｜長輩多｜手機多
+! Type: Custom filtering rules
+! Focus: 詐騙 / 釣魚 / 偽裝官方 / 農場文 / 廣告聯播
+! ==================================================
+
+! --------------------------------------------------
+! 偽 LINE / 支付 / 點數 詐騙
+! --------------------------------------------------
+||line-pay.tw^
+||linepay-tw.com^
+||linepay-tw.net^
+||line-pay.vip^
+||linepay-event.com^
+||linepay-reward.com^
+||line-gift.tw^
+||line-bonus.com^
+||line-reward.vip^
+||line-point.tw^
+||linepoints-event.com^
+
+! --------------------------------------------------
+! 偽 Shopee / momo / PChome / 電商詐騙
+! --------------------------------------------------
+||shopee-event.tw^
+||shopee-gift.tw^
+||shopee-reward.com^
+||shopee-sale.vip^
+||shopee-bonus.com^
+||shopee-tw.vip^
+||momo-event.tw^
+||momo-gift.com^
+||momo-reward.tw^
+||pchome-event.tw^
+||pchome-bonus.com^
+
+! --------------------------------------------------
+! 偽銀行 / 金融 / 信用卡驗證
+! --------------------------------------------------
+||bank-tw.cc^
+||bank-verify.com^
+||bank-secure.vip^
+||payment-verify.com^
+||payment-check.cc^
+||secure-bank.vip^
+||secure-payment.tw^
+||credit-check.cc^
+||credit-verify.com^
+||account-secure.vip^
+
+! --------------------------------------------------
+! 偽政府 / 官方 / 補助通知
+! --------------------------------------------------
+||gov-tw.cc^
+||gov-taiwan.cc^
+||taiwan-gov.vip^
+||official-gov.cc^
+||gov-service.tw^
+||gov-notice.cc^
+||tw-gov-event.com^
+||public-service.vip^
+
+! --------------------------------------------------
+! 常見詐騙模板（帳號異常 / 驗證）
+! --------------------------------------------------
+||verify-account.com^
+||verify-info.cc^
+||verify-user.vip^
+||secure-login.cc^
+||login-secure.vip^
+||account-check.vip^
+||account-update.cc^
+||update-info.tw^
+||service-center.cc^
+||support-center.vip^
+
+! --------------------------------------------------
+! 簡訊詐騙 / 釣魚短網域
+! --------------------------------------------------
+||bit-verify.com^
+||url-verify.cc^
+||go-check.vip^
+||click-verify.tw^
+||link-secure.cc^
+
+! --------------------------------------------------
+! 農場文 / LINE 轉傳內容站
+! --------------------------------------------------
+||kknews.cc^
+||read01.com^
+||buzzhand.com^
+||thevalue101.com^
+||happytify.cc^
+||yes-news.com^
+||love-shared.com^
+||daydaynews.cc^
+
+! --------------------------------------------------
+! 台灣常見廣告 / 推播 / 聯播網
+! --------------------------------------------------
+||clickforce.com^
+||vpon.com^
+||tenmax.io^
+||bridgewell.com^
+||popin.cc^
+||adx.dable.io^
+||ad2iction.com^
+||media-go.com^
+
+! --------------------------------------------------
+! 偽技術支援 / 中毒警告
+! --------------------------------------------------
+||pc-warning.cc^
+||system-alert.vip^
+||security-alert.tw^
+||virus-warning.cc^
+||tech-support.vip^
+
+! ==================================================
+! End of TW Anti-Scam Extended
+! ==================================================
