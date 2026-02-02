@@ -3098,3 +3098,7 @@
 @@||twitch.tv^$important
 @@||twitchcdn.net^$important
 @@||twitchsvc.net^$important
+@@|gov.tw^$important
+@@|*.gov.tw^$important
+@@|edu.tw^$important
+@@|*.edu.tw^$important
